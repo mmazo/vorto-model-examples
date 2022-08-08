@@ -1,8 +1,8 @@
 vortolang 1.0
-namespace willi.io.private
-version 1.0.1
-displayname "TestDevice"
-description "test description"
+namespace mmazo.io.private
+version 1.0.0
+displayname "RoboCat"
+description "Robo cat information model"
 
 infomodel RoboCat {
 }
