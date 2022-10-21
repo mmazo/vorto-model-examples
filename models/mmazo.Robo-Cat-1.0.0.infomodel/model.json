@@ -1,18 +1,18 @@
 {
   "root" : {
     "name" : "RoboCat",
-    "namespace" : "mmazo.io.private",
+    "namespace" : "mmazo",
     "version" : "1.0.0",
-    "prettyFormat" : "mmazo.io.private:RoboCat:1.0.0"
+    "prettyFormat" : "mmazo:RoboCat:1.0.0"
   },
   "models": {
-    "mmazo.io.private:RoboCat:1.0.0": {
+    "mmazo:RoboCat:1.0.0": {
       "vortolang" : "1.0",
       "id": {
         "name" : "RovoCat",
-        "namespace" : "mmazo.io.private",
+        "namespace" : "mmazo",
         "version" : "1.0.0",
-        "prettyFormat" : "mmazo.io.private:RoboCat:1.0.0"
+        "prettyFormat" : "mmazo:RoboCat:1.0.0"
       },
       "type" : "InformationModel",
       "displayName" : "TestDevice",

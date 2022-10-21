@@ -1,5 +1,5 @@
 vortolang 1.0
-namespace mmazo.io.private
+namespace mmazo
 version 1.0.0
 displayname "RoboCat"
 description "Robo cat information model"
