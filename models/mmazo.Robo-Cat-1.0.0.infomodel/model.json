@@ -9,7 +9,7 @@
     "mmazo:RoboCat:1.0.0": {
       "vortolang" : "1.0",
       "id": {
-        "name" : "RovoCat",
+        "name" : "RoboCat",
         "namespace" : "mmazo",
         "version" : "1.0.0",
         "prettyFormat" : "mmazo:RoboCat:1.0.0"
